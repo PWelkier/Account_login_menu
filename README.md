@@ -16,9 +16,3 @@ Ten projekt to prosty system logowania w PHP z różnymi funkcjami, takimi jak p
 - **MySQL:** Używane do przechowywania i zarządzania danymi studentów w bazie danych.
 - **HTML/CSS:** Używane do projektowania interfejsu frontendowego dla logowania i innych formularzy.
 
-## Instalacja
-
-1. Skopiuj projekt na swój lokalny serwer.
-2. Utwórz bazę danych w MySQL o nazwie `pwelkier` (lub dostosuj nazwę w kodzie PHP).
-3. Ustaw odpowiednie dane logowania do bazy danych w pliku PHP.
-4. Uruchom projekt na swoim serwerze i uzyskaj dostęp do stron logowania, panelu sterowania, kalkulatora, formularza i bazy danych studentów.
